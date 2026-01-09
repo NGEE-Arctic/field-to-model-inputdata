@@ -1,0 +1,4 @@
+2019-08-22T20:30:30.344428
+=====================
+Modified the vegetation file to set all CMT 08 pixels to CMT 07.
+Saved a copy of the original, just in case.
