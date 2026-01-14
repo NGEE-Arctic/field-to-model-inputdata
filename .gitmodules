@@ -1,0 +1,4 @@
+[submodule "ATS/ats-demos"]
+	path = ATS/ats-demos
+	url = https://github.com/amanzi/ats-demos
+	branch = ats-demos-1.6
